@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#2196F3</item> <!-- Calming Blue color -->
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- White text color -->
+    </style>
+</resources>
